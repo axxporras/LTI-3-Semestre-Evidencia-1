@@ -99,7 +99,7 @@ while respuesta !=3:
                                        
                                        
                         
-                        monto = labial*unidades
+                        monto = delineador*unidades
                         print('Se ha registrado la venta')
                         print(f'\nEl monto total fue de {monto} pesos \n')
                         print('Devuelta al menu')
